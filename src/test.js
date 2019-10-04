@@ -1,0 +1,2 @@
+firebase from 'firebase/app';
+
